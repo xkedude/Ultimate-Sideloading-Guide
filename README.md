@@ -210,11 +210,11 @@ Follow this guide
 Then follow Part 1 and 2 of the guide to prevent revokes in the future
 Using Nugget or Cowabungs with the DNS blocker
 
-Profiles disappear when using Nugget and Cowabunga (only on older ios/devices). This can easily be fixed but is a bit annoying as it requires a PC.
+Profiles disappear when using Nugget and Cowabunga. This can easily be fixed but is a bit annoying as it requires a PC.
 
 Fix for macOS:
 
-Only the macOS version of Nugget is compatible with this guide. Not the app itself! You must always follow this guide when wanting to use Nugget and Cowabunga!
+Only the macOS version of Nugget is compatible with this guide (only on older ios/devices its needed). Not the mobile app itself! You must always follow this guide when wanting to use Nugget and Cowabunga!
 
 Part [1/2] Using Nugget/Cowabunga
 
